@@ -10,6 +10,7 @@ public class calculator {
 		// TODO Auto-generated method stub
      calculator c = new calculator();
      System.out.print(c.mult(2, 5));
+     System.out.print("pushed on helus github repo");
 	}
 
 }
